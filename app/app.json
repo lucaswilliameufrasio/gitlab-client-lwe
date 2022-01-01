@@ -10,6 +10,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "scheme": "com.lucaswilliameufrasio.gitlabclient",
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -23,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.lucaswilliameufrasio.gitlabclient"
     },
     "web": {
       "favicon": "./assets/favicon.png"
